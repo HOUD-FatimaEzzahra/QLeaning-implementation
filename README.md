@@ -6,9 +6,6 @@ L'apprentissage par renforcement est une branche de l'intelligence artificielle 
 
 QLearning est un algorithme d'apprentissage par renforcement qui permet à un agent d'apprendre une fonction d'action-valeur, appelée Q-valeur, qui représente l'utilité prévue de prendre une action donnée dans un état donné. L'algorithme QLearning utilise une approche de programmation dynamique pour mettre à jour les valeurs de Q en fonction des récompenses reçues et des estimations des valeurs futures.
 
-![i](https://github.com/HOUD-FatimaEzzahra/QLearning-Implementation-using-MAS/blob/main/src/main/java/ma/enset/fatiza/img/QLearning.png)
-
-
 ## Labyrinthe (Maze) et principe de fonctionnement
 
 Le labyrinthe est un environnement dans lequel l'agent doit naviguer pour atteindre un objectif. Il est représenté sous forme d'une grille avec des cases et des murs. Chaque case peut avoir des récompenses positives ou négatives associées, et l'agent doit apprendre à trouver le chemin optimal pour maximiser sa récompense totale.
