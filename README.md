@@ -32,6 +32,6 @@ où :
 
 ## Contenu 
 Ce dépôt GitHub contient les implémentations suivantes :
-1. [Version standard du QLearning](https://github.com/HOUD-FatimaEzzahra/QLearning-Implementation-using-MAS/tree/main/src/main/java/ma/enset/fatiza/version1)
-2. [Version SMA (Multi-Agent) du QLearning](https://github.com/HOUD-FatimaEzzahra/QLearning-Implementation-using-MAS/tree/main/src/main/java/ma/enset/fatiza/version2_sma)
+1. [Version standard du QLearning](https://github.com/HOUD-FatimaEzzahra/QLeaning-implementation/tree/main/src/main/java/ma/enset/version_sequentielle)
+2. [Version SMA (Multi-Agent) du QLearning](https://github.com/HOUD-FatimaEzzahra/QLeaning-implementation/tree/main/src/main/java/ma/enset/version_sma)
 
